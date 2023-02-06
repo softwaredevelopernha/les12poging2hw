@@ -3,21 +3,21 @@ header{
   width: 600px;
   height: 200px;
 }
-#cel2 {background-color: LightSalmon;}
-#cel3 {background-color: PaleTurquoise;}
-#cel4 {background-color: PaleGreen;}
-#cel5 {background-color: palevioletred;}
-#cel6 {background-color: salmon;}
-#cel7 {background-color: turquoise;}
-#cel8 {background-color: springgreen;}
-#cel9 {background-color: deeppink;}
-#cel10 {background-color: crimson;}
-#cel11 {background-color: lightseagreen;}
-#cel12 {background-color: lime;}
-#cel13 {background-color: mediumvioletred;}
-#cel14 {background-attachment: Red;}
-#cel15 {background-color: darkcyan;}
-#cel16 {background-color: forestgreen;}
+#cel2 {bgcolor: 'LightSalmon';} 
+#cel3 {background-color: 'PaleTurquoise';}
+#cel4 {background-color: 'PaleGreen';}
+#cel5 {background-color: 'palevioletred';}
+#cel6 {background-color: 'salmon';}
+#cel7 {background-color: 'turquoise';}
+#cel8 {background-color: 'springgreen';}
+#cel9 {background-color: 'deeppink';}
+#cel10 {background-color: 'crimson';}
+#cel11 {background-color: 'lightseagreen';}
+#cel12 {background-color: 'lime';}
+#cel13 {background-color: 'mediumvioletred';}
+#cel14 {background-attachment: 'Red';}
+#cel15 {background-color: 'darkcyan';}
+#cel16 {background-color: 'forestgreen';}
 footer{
   background-color: #33CCCC;
   width: 600px;
